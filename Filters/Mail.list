@@ -1,0 +1,4 @@
+HOST-SUFFIX,mail.google.com
+HOST-SUFFIX,gmail.com
+HOST-SUFFIX,*aol.com
+USER-AGENT,com.apple.mail*
